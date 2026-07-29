@@ -52,7 +52,6 @@ My goal is to become a software engineer who can design, build, deploy, and main
 
 - Java Programming
 - Linux
-- Git Workflows
 - Server Administration
 - Infrastructure Automation
 - Software Design

@@ -59,10 +59,4 @@ My goal is to become a software engineer who can design, build, deploy, and main
 
 ---
 
-## 📫 Connect with me
-
-- GitHub: github.com/ajaguilar15
-- LinkedIn: https://www.linkedin.com/in/ajaguilar92/
-- Email: ajaguilar920@gmail.com
-
 Thanks for visiting my profile!

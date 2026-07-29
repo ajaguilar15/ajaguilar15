@@ -6,6 +6,7 @@ I'm a Computer Science student at Northern Illinois University with a passion fo
 My goal is to become a software engineer who can design, build, deploy, and maintain reliable software systems—from user interfaces to backend services and infrastructure.
 
 **🖥️ Technical Focus**
+
 Primary Language:
 - Java
 

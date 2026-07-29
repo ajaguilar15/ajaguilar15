@@ -5,8 +5,6 @@ I'm a Computer Science student at Northern Illinois University with a passion fo
 
 My goal is to become a software engineer who can design, build, deploy, and maintain reliable software systems—from user interfaces to backend services and infrastructure.
 
-**🖥️ Technical Focus**
-
 Primary Language:
 - Java
 
@@ -29,18 +27,17 @@ Core Strengths:
 - 📖 Completing my B.S. in Computer Science.
 
 **🌱 I'm currently learning**
+- Backend Development
+- Infrastucture Automation
+- Cloud Computing
 - Docker & Containerization
-- System Design
 - Networking
-- Cloud Platforms
 - CI/CD Pipelines
 
 **🎯 I'm interested in**
-- Backend Engineering
+- Oracle Cloud Infrastructure
 - Distributed Systems
-- Cloud Infrastructure
-- System Design
-- Infrastructure Automation
+- System programming
 
 **💬 Ask me about**
 - Java Programming

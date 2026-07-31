@@ -21,7 +21,7 @@ Core Strengths:
 ---
 
 **🚀 I'm currently working on**
-- 📚 **SoftCover** — A full-stack book tracking application built with React, Node.js, Express, PostgreSQL, and JWT authentication.
+- 📚 **SoftCover** — A full-stack digital reading application built with React, Node.js, Express, PostgreSQL, and JWT authentication.
 - 🖥️ Building and managing a self-hosted Linux server for databases, Docker containers, and web applications.
 - 🌐 Learning how to automate infrastructure and deploy reliable services.
 - 📖 Completing my B.S. in Computer Science.

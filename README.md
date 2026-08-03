@@ -6,7 +6,7 @@ I strive to continuously learn and improve as an engineer through curiosity, bui
 
 ------------------------------------------------------
 **🚀 I'm currently working on**
-- 📚 **SoftCover** — An eBook library/reading application built with React, Node.js, Express, PostgreSQL, and JWT authentication. <link rel=https://soft-cover.vercel.app/>https:SoftCover</link>
+- 📚 **SoftCover** — An eBook library/reading application built with React, Node.js, Express, PostgreSQL, and JWT authentication. [SoftCover] (https://soft-cover.vercel.app/)
 - 🖥️ Managing and improving a self-hosted Linux server for databases, Docker containers, and web applications.
 - 📖 Completing my B.S. in Computer Science.
 

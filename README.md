@@ -24,4 +24,3 @@ I strive to continuously learn and improve as an engineer through curiosity, bui
 -------------------------------------------------------
 
 💬 Ask me about: Java | C++ | Application Development | Software Design
-ajaguilar920@gmail.com

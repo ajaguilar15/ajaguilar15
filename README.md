@@ -1,12 +1,9 @@
-## Hi, I'm Anthony Aguilar 👋
+### Hi, I'm Anthony Aguilar, a Software Engineer 👋
 
-### Software Engineer
 I'm a Computer Science student at Northern Illinois University with a passion for building reliable software and the infrastructure that powers it. I'm especially interested in backend engineering, cloud infrastructure, and automation.
-
 My goal is to become a software engineer who can design, build, deploy, and maintain reliable software systems—from user interfaces to backend services and infrastructure.
 
----
-
+------------------------------------------------------
 **🚀 I'm currently working on**
 - 📚 **SoftCover** — An eBook library/reading application built with React, Node.js, Express, PostgreSQL, and JWT authentication.
 - 🖥️ Managing and improving a self-hosted Linux server for databases, Docker containers, and web applications.
@@ -29,6 +26,6 @@ My goal is to become a software engineer who can design, build, deploy, and main
 - Web Development
 - Software Design
 
----
+-------------------------------------------------------
 
 Thanks for visiting my profile!

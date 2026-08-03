@@ -1,7 +1,8 @@
 ### Hi, I'm Anthony Aguilar, a Software Engineer 👋
 
-I'm a Computer Science student at Northern Illinois University with a passion for building reliable software and the infrastructure that powers it. I'm especially interested in backend engineering, cloud infrastructure, and automation.
-My goal is to become a software engineer who can design, build, deploy, and maintain reliable software systems—from user interfaces to backend services and infrastructure.
+I'm a Computer Science student at Northern Illinois University with a passion for building software and the infrastructure that powers it.
+My goal is to become a software engineer who develops reliable solutions that solve real problems across entire systems.
+I strive to continuously learn and improve as an engineer through curiosity, building, and re-evaluation.
 
 ------------------------------------------------------
 **🚀 I'm currently working on**
@@ -20,12 +21,7 @@ My goal is to become a software engineer who can design, build, deploy, and main
 - Distributed Systems
 - System programming
 
-**💬 Ask me about**
-- Java
-- C++
-- Web Development
-- Software Design
-
 -------------------------------------------------------
 
-Thanks for visiting my profile!
+💬 Ask me about: Java | C++ | Application Development | Software Design
+ajaguilar920@gmail.com
